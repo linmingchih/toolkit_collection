@@ -1,7 +1,24 @@
 # Copy of t
 
-{% code title="" lineNumbers="true" %}
-```python
-//
+
+
+<details>
+
+<summary></summary>
+
 ```
-{% endcode %}
+// Some code
+```
+
+</details>
+
+<details>
+
+<summary></summary>
+
+```
+// Some code
+```
+
+</details>
+

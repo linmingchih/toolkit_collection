@@ -6,7 +6,7 @@ description: >-
 
 # 輸出Q3D矩陣TSV檔
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
