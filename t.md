@@ -8,7 +8,7 @@
 
 {% code lineNumbers="true" %}
 ```python
-// Some code
+//
 ```
 {% endcode %}
 
@@ -18,9 +18,11 @@
 
 <summary></summary>
 
+{% code lineNumbers="true" %}
+```python
+//
 ```
-// Some code
-```
+{% endcode %}
 
 </details>
 
